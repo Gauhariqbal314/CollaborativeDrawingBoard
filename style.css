@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(85, 168, 241, 0.466);
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+canvas {
+    border: 2px solid black;
+    background-color: white;
+}
